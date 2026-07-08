@@ -12,3 +12,21 @@ html {
     transform: translateY(6px);
   }
 }
+:root {
+  --font-family: "Manrope", sans-serif;
+  /* --second-family: "Great Vibes", sans-serif; */
+
+  --viter_v_poli-bg: #f1e8dd;
+  --bg-green: #20311b;
+  --text-color-wh: #ffffff;
+  --text-color-bl: #262624;
+}
+@theme inline {
+  --font-primary: var(--font-family);
+  /* --font-secondary: var(--second-family); */
+
+  --color-background: var(--viter_v_poli-bg);
+  --color-background-green: var(--bg-green);
+  --color-text-w: var(--text-color-wh);
+  --color-text-b: var(--text-color-bl);
+}
