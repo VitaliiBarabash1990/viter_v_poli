@@ -1,0 +1,11 @@
+<svg width="140" height="140" viewBox="0 0 140 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="70" cy="70" r="68.5" stroke="#A1874D" stroke-width="3"/>
+<path d="M24.125 36H116.125" stroke="#A1874D" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40.125 36V46" stroke="#A1874D" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100.125 36V46" stroke="#A1874D" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40.125 46C38.125 56 34.125 64 28.125 70" stroke="#A1874D" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M40.125 50C42.125 60 46.125 68 52.125 74" stroke="#A1874D" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M36.125 60L28.125 64M44.125 64L52.125 69M34.125 74L26.125 79M46.125 78L54.125 83M40.125 46V94" stroke="#A1874D" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M100.125 46V104" stroke="#A1874D" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M92.125 55L100.125 50L108.125 55M90.125 68L100.125 62L110.125 68M89.125 81L100.125 74L111.125 81M91.125 93L100.125 86L109.125 93M93.125 104L100.125 98L107.125 104" stroke="#A1874D" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
